@@ -79,10 +79,6 @@ Upon running the application, you will see a menu with options to:
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or issues, please contact the repository owner at `03yadavankit@gmail.com`.
