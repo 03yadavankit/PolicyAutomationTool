@@ -48,7 +48,7 @@ The Policy Automation Tool is a Java-based application designed to manage insura
    ```java
    private static final String DB_URL = "jdbc:mysql://localhost:3306/policy_db";
    private static final String DB_USER = "root";
-   private static final String DB_PASSWORD = "1408620Anki@";
+   private static final String DB_PASSWORD = "YourPassword";
    ```
 
 4. **Build the Project**
