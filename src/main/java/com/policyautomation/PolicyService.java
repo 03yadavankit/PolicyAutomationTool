@@ -13,4 +13,12 @@ public class PolicyService {
     public void addPolicy(Policy policy) throws SQLException {
         policyDAO.addPolicy(policy);
     }
+
+    public void updatePolicy(Policy policy) throws SQLException {
+        policyDAO.updatePolicy(policy);
+    }
+
+    public void deletePolicy(int policyId) throws SQLException {
+        policyDAO.deletePolicy(policyId);
+    }
 }

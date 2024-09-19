@@ -5,16 +5,6 @@ public class Policy {
     private String name;
     private String description;
 
-    // Constructors
-    public Policy() {}
-
-    public Policy(int id, String name, String description) {
-        this.id = id;
-        this.name = name;
-        this.description = description;
-    }
-
-    // Getters and Setters
     public int getId() {
         return id;
     }
